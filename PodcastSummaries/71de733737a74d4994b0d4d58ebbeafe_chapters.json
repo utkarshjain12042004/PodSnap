@@ -1,81 +1,88 @@
 {
     "chapters": [
         {
-            "summary": "Squarespace's Courses feature gives you the tools to create and sell your own online course. Socks, underwear and t shirts are the three most requested clothing items in homeless shelters. When you buy yours from Bombas, you're also donating essential items to those who need them.",
-            "gist": "Holiday School Course Promotion with Squarespace",
-            "headline": "Bomba Socks donate essential items to homeless shelters this holiday season",
-            "start": 1530,
-            "end": 63962
+            "summary": "Stork continuously tracks your baby's health data like pulse rate, oxygen saturation, and skin temperature. Stork's camera has a QHD capable high resolution video. While Stork isn't a medical advice, it can help you get to know your baby better.",
+            "gist": "Stork: The New Smart Home Baby Monitor",
+            "headline": "Stork is the new Smart home baby monitoring system",
+            "start": 330,
+            "end": 27286
         },
         {
-            "summary": "There just weren't a lot of middle sized rental buildings in Toronto. In 1912, Toronto banned apartment buildings in most of the city. The term missing middle can be confusing. Cities with lots of middle housing just have more choice in the housing market. Cities without middle housing are harder for pretty much everyone except for the wealthy.",
+            "summary": "There just weren't a lot of middle sized rental buildings in Toronto. The main culprit for this is early 20th century zoning laws. Cities with lots of middle housing just have more choice. Cities without middle housing tend to be harder for pretty much everyone except for the wealthy.",
             "gist": "Toronto's 'Missing Middle'",
             "headline": "Toronto has a pronounced lack of mid sized apartment buildings",
-            "start": 64026,
-            "end": 673490
+            "start": 27388,
+            "end": 628242
         },
         {
-            "summary": "Alfred Hawes built Spadina Gardens without a permit in Toronto. The city banned apartment buildings in 1912. Today, the city lacks middle housing that's affordable for middle class families. The lack of middle housing in Toronto has led to a divided city.",
-            "gist": "The Toronto apartment building that defied city planning",
-            "headline": "Alfred Hawes started building Spadana Gardens without a permit",
-            "start": 673560,
-            "end": 1121058
+            "summary": "Alfred Hawes built Spadina Gardens without a permit in Toronto before the city banned these types of buildings. The building is still there, and it's now the oldest in use apartment building in the city. Toronto could have had similar buildings across the city if it weren't for exclusionary zoning.",
+            "gist": "Toronto's First Apartment",
+            "headline": "Alfred Hawes built a low rise apartment in Toronto before anti-apartment ban",
+            "start": 628386,
+            "end": 1114738
         },
         {
-            "summary": "Most of the new residences being built are luxury. They only really serve a very narrow range of people. In most places, it's still illegal to build anything except for single family homes. Jason Allen John wants to build affordable housing in communities he cares about. But his dream may never become a reality.",
-            "gist": "Toronto's missing middle in the condo market",
+            "summary": "Most of the new residences being built are luxury. They don't reflect the diversity that is currently needed in the city. There are developers who want to build middle housing, but in most places, it's still illegal to build anything except for single family homes. Jason Allen John wants to build affordable housing in communities he cares about.",
+            "gist": "Toronto's missing middle of affordable housing",
             "headline": "Most of the new condos being built in Toronto are luxury and come with hefty fees",
-            "start": 1121144,
-            "end": 1381378
+            "start": 1114824,
+            "end": 1375038
         },
         {
-            "summary": "Toronto has a missing middle problem. Cities like Portland have tried to take concrete steps to fix it. Camille Truma worked with the mayor of Portland to pass zoning reform. While zoning reform isn't a silver bullet for a housing crisis, it is a big first step.",
-            "gist": "Portland's Fight for the Missing Middle",
+            "summary": "Toronto has a missing middle problem. Cities like Portland have tried to take concrete steps to fix it. Camille Trummer worked with the mayor of Portland to pass zoning reform. While zoning reform isn't a silver bullet for a housing crisis, it is a big first step.",
+            "gist": "Portland's Struggle for a Missing Middle",
             "headline": "Other cities with a missing middle have taken concrete steps to fix it",
-            "start": 1381554,
-            "end": 1875138
+            "start": 1375214,
+            "end": 1893946
         },
         {
-            "summary": "The Lenovo Yoga Nine I also comes with one click function keys, a full size Stylus Pen touchscreen functionality and plenty of ports. The feel and mechanics of the hinge screen when you want to use it as a tablet is really robust and smooth.",
-            "gist": "The Lenovo Yoga 9 Review",
-            "headline": "The Lenovo Yoga Nine I comes with 4k resolution and OLED pure sight display",
-            "start": 1875224,
-            "end": 1935526
-        },
-        {
-            "summary": "As a business to business marketer, your needs are unique. LinkedIn Ads empowers marketers with solutions for you and your customers. Make B two B, marketing everything it can be and get a $100 credit on your next campaign.",
-            "gist": "About LinkedIn Ads",
+            "summary": "LinkedIn Ads empowers marketers with solutions for you and your customers. You'll have direct access to and build relationships with 980,000,000 members. Make B Two B marketing everything it can be and get a $100 credit on your next campaign.",
+            "gist": "LinkedIn: Invisible to Business Marketers",
             "headline": "LinkedIn Ads empowers marketers with solutions for you and your customers",
-            "start": 1935628,
-            "end": 1997348
+            "start": 1894048,
+            "end": 1962080
         },
         {
-            "summary": "The holidays are all about giving and taking care of others. But it's super important to take care of yourself too, especially during the relentless holiday season. Visit BetterHelp. com Invisible today to get 10% off your first month.",
-            "gist": "How to Take Care of Yourself This Holiday Season",
-            "headline": "Give yourself some love this holiday season with BetterHelp. com Invisible",
-            "start": 1997444,
-            "end": 2063850
+            "summary": "T Mobile is America's largest and fastest 5G network, built for speed and coverage. They cover more highway miles with 5G than anyone else. To find out more, visit tmobile. com network today.",
+            "gist": "T Mobile's 5G Network",
+            "headline": "T Mobile is America's largest and fastest 5G network",
+            "start": 1967030,
+            "end": 2014702
         },
         {
-            "summary": "GiveWell has spent over 15 years researching charitable organizations. Over 100,000 donors have used GiveWell to donate more than $1 billion. You can have your donation matched up to $100 before the end of the year.",
-            "gist": "GiveWell: The Online Charitable Database",
-            "headline": "GiveWell helps donors make informed decisions about high impact charitable giving",
-            "start": 2068910,
-            "end": 2133840
+            "summary": " Article is offering 99% invisible listeners $50 off your first purchase of $100 or more. Their curated assortment of mid century modern, coastal, industrial, and Scandinavian designs make furniture shopping simple. To claim, visit article 99 and the discount will be automatically applied at checkout.",
+            "gist": "Article 99",
+            "headline": "Article is offering 99% invisible listeners $50 off your first purchase",
+            "start": 2014766,
+            "end": 2077390
         },
         {
-            "summary": "Jay Coburn talks about one of the most insane examples of Toronto city planning. The city insists a 17 unit apartment building is actually just two semidetached houses. But legally, nobody can actually live in the apartments. This is part of why a lot of the city is actually getting less dense.",
-            "gist": "Toronto's insane plan to turn a 17-unit apartment building into",
+            "summary": "This time of year can be a lot, and it's natural to feel some sadness or anxiety about it. Try adding something new and positive to your life that can counteract those feelings. Find your bright spot this season with BetterHelp. com invisible today to get 10% off your first month.",
+            "gist": "Happy Holidays! Time to Start Therapy!",
+            "headline": "If you're thinking of starting therapy, give BetterHelp a try",
+            "start": 2077470,
+            "end": 2147450
+        },
+        {
+            "summary": "Jay Coburn talks about one of the most insane examples of Toronto city planning. There's a 17 unit apartment building in the Forest Hill neighborhood that the city insists is actually just two semidetached houses. This is part of why a lot of the city is actually getting less dense.",
+            "gist": "Toronto's insane plan to turn an apartment building into two houses",
             "headline": "Jay Coburn talks about controversial changes to Toronto zoning laws",
-            "start": 2137330,
-            "end": 2520122
+            "start": 2150750,
+            "end": 2451702
         },
         {
-            "summary": "99% Invisible is part of the Stitcher and SiriusXM podcast family. The next generation of streaming is here. T Mobile is the network that covers more interstate highway miles with 5G than anyone. Join discussions about the show on Facebook.",
-            "gist": "99% Invisible",
-            "headline": "99% Invisible is part of the Stitcher and SiriusXM podcast family",
-            "start": 2520186,
-            "end": 2693026
+            "summary": "A combination of Byzantine municipal nonsense and economics means there are 17 potential units just sitting empty in Forest Hill. It's just another reminder that the incentives are all pushing the wrong behavior in people. Now buckle up, crank those tunes and ride with us in the California Road Trip Republic.",
+            "gist": "99% Invisible: The Problem With Urban Inclusion",
+            "headline": "There are 17 potential units sitting empty in Forest Hill because of Byzantine municipal bureaucracy",
+            "start": 2451766,
+            "end": 2658190
+        },
+        {
+            "summary": "Get low cost copays, 90 day refills, and easy prescription delivery from your neighborhood Walgreens. This is being independent together. Restrictions apply. For details, see WalGreens. com Pharmacy.",
+            "gist": "Waldgreens Pharmacy: Being Independent With Your Medicare Pres",
+            "headline": "Walgreens is your preferred pharmacy for your Medicare prescriptions",
+            "start": 2659810,
+            "end": 2683410
         }
     ],
     "audio_url": "https://www.listennotes.com/e/p/71de733737a74d4994b0d4d58ebbeafe/",

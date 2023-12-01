@@ -3,6 +3,7 @@ import json
 import time
 import logging
 from api_secrets import API_KEY_ASSEMBLYAI, API_KEY_LISTENNOTES
+import pprint
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG)
@@ -24,7 +25,7 @@ def get_episode_audio_url(episode_id):
   response = requests.request('GET', url, headers=headers_listennotes)
 
   data = response.json()
-  # pprint.pprint(data)
+  pprint.pprint(data)
 
   episode_title = data['title']
   thumbnail = data['thumbnail']

@@ -1,5 +1,5 @@
-import os
+from api_keys import keyOne, keyTwo
 
-API_KEY_ASSEMBLYAI = os.environ.get('ASSEMBLYAI_API_KEY')
-API_KEY_LISTENNOTES = os.environ.get('LISTENNOTES_API_KEY')
+API_KEY_ASSEMBLYAI = keyOne
+API_KEY_LISTENNOTES = keyTwo
 
