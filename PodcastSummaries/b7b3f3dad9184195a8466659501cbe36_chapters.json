@@ -1,0 +1,232 @@
+{
+    "chapters": [
+        {
+            "summary": "With Visible, you get a oneline plan with unlimited 5G data on Verizon's network for $25 a month. Visible doesn't do stores, so you can manage your plan, chat to customer service and update your eSIM all on their app.",
+            "gist": "Verizon's New 5G Plan With Visible",
+            "headline": "With Visible, you get unlimited 5G data on Verizon's network",
+            "start": 170,
+            "end": 33682
+        },
+        {
+            "summary": "Wix Studio lets agencies deliver exceptional client sites with max efficiency. You can build unique layouts with a revolutionary grid experience. Native Business Solutions let you cater to any industry. Find out more@wix. com.",
+            "gist": "Wix Studio",
+            "headline": "Wix Studio lets agencies deliver exceptional client sites with max efficiency",
+            "start": 33826,
+            "end": 69730
+        },
+        {
+            "summary": "This week has been the most insane week in technology for like five years at least. A lot of things that we never thought would ever happen. Maybe the nothing sunbird RCS thing is right. That's a whole experience in itself.",
+            "gist": "This Week in Technology: The Madness",
+            "headline": "This week has been the most insane week in technology for five years",
+            "start": 76790,
+            "end": 164078
+        },
+        {
+            "summary": "Nothing was making an app that would bring imessage to their newest phone. Security researchers started ripping it apart, most notably from one of their competitors. Sunbird also suspended their operations indefinitely until they can figure out a solution.",
+            "gist": "Nothing Chats: Should They Have Shut Down Their App?",
+            "headline": "Nothing's app for Android had security concerns so it was pulled immediately",
+            "start": 164164,
+            "end": 557114
+        },
+        {
+            "summary": "The RCS universal profile that Apple is pledging to support doesn't have encryption built in. A lot of countries, specifically the EU, is very against encryption in general. There's hopes that maybe they will be able to add on to the universal profile or maybe support encryption down the road.",
+            "gist": "Why Apple Won't Support RCS on the Universal Profile",
+            "headline": "The RCS universal profile that Apple is pledging to support doesn't have encryption",
+            "start": 557162,
+            "end": 819394
+        },
+        {
+            "summary": "There's still going to be a lot of features that imessage does not support with adding into. Android phones. I wonder if they're going to let you do group chats with iPhones and Android phones and it'll just make the group chat be green. After the break, we'll do some trivia.",
+            "gist": "Will Apple Keep Imessage RCS-Friendly?",
+            "headline": "There are still many features that imessage does not support with adding into",
+            "start": 819432,
+            "end": 1046060
+        },
+        {
+            "summary": "Shopify is the global commerce platform that helps you sell at every stage of your business. 10% of all ecommerce businesses in the US. Are powered by Shopify. Sign up for a $1 per month trial period.",
+            "gist": "Start and Grow Your Business with Shopify",
+            "headline": "Shopify is the global commerce platform that helps you sell at every stage",
+            "start": 1057250,
+            "end": 1112490
+        },
+        {
+            "summary": "Visible Wireless' base plan with 5G mobile hotspot and unlimited data on Verizon's network for $25 a month works great for lots of people. But if you need to shop for a new phone in person, then Visible probably isn't for you.",
+            "gist": "Why Visible Wireless Isn't For You",
+            "headline": "Video explains why Visible Wireless might not be for you",
+            "start": 1112580,
+            "end": 1196220
+        },
+        {
+            "summary": "As of recording, 04:00 p. m. Eastern time on Tuesday. Microsoft invested a 49% stake in OpenAI, which gave it the ability to have a lot of cloud credits with Microsoft Azure. On Friday, the CEO of OpenAI was abruptly fired. The story is still unfolding as of recording.",
+            "gist": "Microsoft Exploiting OpenAI...",
+            "headline": "Microsoft invested a 49% stake in OpenAI on Friday",
+            "start": 1197150,
+            "end": 1490706
+        },
+        {
+            "summary": "OpenAI was founded in 2015 as a nonprofit. They wanted to create an artificial general intelligence that benefits all humanity. But in 2019, they realized they needed to make more money. There's still a wacky weirdness about a non profit owning a for profit business.",
+            "gist": "OpenAI: A Non-Profit Organization",
+            "headline": "OpenAI was founded in 2015 as a nonprofit. They were trying to create an artificial general intelligence",
+            "start": 1490828,
+            "end": 1754510
+        },
+        {
+            "summary": "Microsoft invested a 49% stake in OpenAI, which was effectively a $10 billion credit for Azure. The nonprofit arm of the company does not hold a board seat. Microsoft is not able to control what the for profit company does. Since 2019, the valuation of OpenAI has gone from like $20 billion up to about 90 billion.",
+            "gist": "OpenAI: Why Microsoft Owns the Chat GPT",
+            "headline": "Microsoft invested 49% in OpenAI through a for profit restructuring",
+            "start": 1754580,
+            "end": 1991370
+        },
+        {
+            "summary": "David Weinberger introduces us to the board of OpenAI. CEO Sam Altman takes a Google Meet call and is fired out of nowhere. Other board members start wildly speculating as to what happened.",
+            "gist": "The OpenAI Board's Reaction to Sam Altman's Ousting",
+            "headline": "Sam Altman was ousted as CEO of OpenAI on Friday",
+            "start": 1992670,
+            "end": 2382280
+        },
+        {
+            "summary": "Sam Altman was fired from AI chip company OpenAI on November 18. After this, he started telling people that he was already planning a new venture. The board eventually agreed to reinstate him in principle. We still don't know why they fired Sam and makes it makes no sense.",
+            "gist": "Sam Altman Gets Fired From OpenAI",
+            "headline": "OpenAI still don't know why they fired Sam Altman",
+            "start": 2382890,
+            "end": 2745062
+        },
+        {
+            "summary": "Microsoft hires Sam Alman to lead a new advanced AI research division. Then Satya effectively says, any other OpenAI employees that want to go to Microsoft can come too. Board member that kind of fired Sam later tweeted out that he deeply regretted his participation in the board's actions.",
+            "gist": "Sam Alman Joins Microsoft, and More",
+            "headline": "Microsoft announced that Sam, Greg and others will be joining Microsoft to lead AI",
+            "start": 2745206,
+            "end": 3060158
+        },
+        {
+            "summary": "Sam is apparently trying to go back to OpenAI today, Tuesday. There are two potential outcomes that happen. Either Sam goes back and we have a very different company, or he doesn't go back and the entirety of OpenAI goes to Microsoft. What would your prediction be?",
+            "gist": "OpenAI's Board Resigns Over Sam's Dismissal",
+            "headline": "Reports where Sam is apparently trying to go back to OpenAI today",
+            "start": 3060244,
+            "end": 3331282
+        },
+        {
+            "summary": "Sam is back. We predicted correctly. There is a new board. For Sam to return to OpenAI as CEO with a new initial board of Bret Taylor, Larry Summers and Adam DeAngelo. That's up until Wednesday, November 21 if things changed.",
+            "gist": "Sam Is Back at OpenAI...",
+            "headline": "There is a new board of OpenAI, according to a statement",
+            "start": 3331346,
+            "end": 3589074
+        },
+        {
+            "summary": "Dua Lipa interviewed Tim Cook. They talked about Vision pro. That's dumb podcast. Even Binance's CZ is pleading guilty. But now trivia.",
+            "gist": "Dua Lipa Interviews Tim Cook",
+            "headline": "Dua Lipa interviewed Tim Cook about Vision Pro",
+            "start": 3589122,
+            "end": 3633910
+        },
+        {
+            "summary": "While building his first app looped, sam Altman reportedly worked so hard that he got what? Old timey disease? We'll figure it out after the break.",
+            "gist": "Sam Altman Got Sick From Working So Hard",
+            "headline": "Sam Altman reportedly got old-timey disease while building his app",
+            "start": 3637130,
+            "end": 3677000
+        },
+        {
+            "summary": "Gigabyte knows that every hardcore gamer deserves the full 4K experience. Their lineup of elite gaming monitors can't be beat. All the lineups feature up to or higher refresh rates HDMI, two one, and super speed Ipsva panels. Get yours today@aoris. com.",
+            "gist": "Gigabyte 4K Gaming Monitors",
+            "headline": "Gigabyte has the best 4K gaming monitors for serious gamers",
+            "start": 3688570,
+            "end": 3755534
+        },
+        {
+            "summary": "Visible Wireless is one of my partners. Base plan with 5G mobile hotspot and unlimited data on Verizon's network for $25 a month. But if you need to shop for a new phone in person, then visible probably isn't for you.",
+            "gist": "Why Visible Wireless Is Not For You",
+            "headline": "Video explains why Visible Wireless might not be for you",
+            "start": 3755732,
+            "end": 3847580
+        },
+        {
+            "summary": "Polestar two quietly got a range bump for the 2024 model with a 655 kilometer range. That's over 400 miles of range. Every single EV that is going to get better, they're all going to have the Tesla Charge port. That is a hashtag pro tip if you're thinking about getting an electric car soon.",
+            "gist": "Polestar 2 Gets a 400-Mile Range Boost",
+            "headline": "Polestar two quietly got a range bump for the 2024 model",
+            "start": 3848990,
+            "end": 4039160
+        },
+        {
+            "summary": "Did you get to see the Sphere? It is quite a large spherical building with screens on the outside. I think animations moving across the sphere looked very smooth. But it's hard to say what is a 90 Hz thing at that scale.",
+            "gist": "The Sphere in Las Vegas",
+            "headline": "Did you get to see the Sphere at the Las Vegas Formula One race",
+            "start": 4039690,
+            "end": 4085910
+        },
+        {
+            "summary": "The F One race in Las Vegas was much louder and more like exhilarating visceral it is in person. With car videos online, none of them can actually give you the feeling of what the car sounds and feels like. The entire race is 50 laps.",
+            "gist": "The F1 Race In Person",
+            "headline": "The F One race was much louder and more visceral in person than online videos",
+            "start": 4085980,
+            "end": 4394460
+        },
+        {
+            "summary": "Vegas is like another universe. Yeah, vegas at night, too. It's like 1112 midnight. It was very picturesque. That's crazy. So it was a pleasure to experience it.",
+            "gist": "Visit Las Vegas: A Taste of Sin City",
+            "headline": "Vegas is like another universe. It was very picturesque at night",
+            "start": 4396430,
+            "end": 4408526
+        },
+        {
+            "summary": "What happens in F One affects what happens outside of F One. Engineers develop the tiniest fraction of a second improvements on these cars. That stuff will eventually trickle down to the cars you and I get to drive.",
+            "gist": "F1 Is Secretly Intelligent",
+            "headline": "What happens in F One affects what happens outside of F One",
+            "start": 4408548,
+            "end": 4704798
+        },
+        {
+            "summary": "Dua Lipa interviewed Tim Cook. They talked about she might have just I bet you she tried it. There's no way that Tim Cook came and was like, what an incredible thing we've made, and then didn't let Dua lipa try it. That would be the most Tim Cook thing ever.",
+            "gist": "Dua Lipa Asked Tim Cook To Try The Vision Pro",
+            "headline": "Dua Lipa interviewed Tim Cook about the Vision Pro fishing pro",
+            "start": 4704884,
+            "end": 4768594
+        },
+        {
+            "summary": "Please do not do this again on Thursday night or Friday night, or we'll have to do trivia. I'm trying to keep you guys up to date with what's going on in technology. It's tough.",
+            "gist": "Week in Technology",
+            "headline": "This week in Technology was totally nothing going on",
+            "start": 4768712,
+            "end": 4797290
+        },
+        {
+            "summary": "Marquez with 13. Andrew with twelve. David with one. Trivia. I'm writing both my answers. Quick update on the score. Carry the 112.",
+            "gist": "Le Leica Camera Trivia",
+            "headline": "Let's get our trivia out of here. Quick update on the score. Marquez with 13. David with one. All right, we did",
+            "start": 4797710,
+            "end": 4824580
+        },
+        {
+            "summary": "One year before OpenAI was launched in 2015 for a total of eight days, sam Altman was the CEO of what popular social media company? Marquez already has his answers written. What's your guess?",
+            "gist": "8",
+            "headline": "One year before OpenAI was launched, sam Altman was CEO of reddit",
+            "start": 4824950,
+            "end": 4875926
+        },
+        {
+            "summary": " Chat GPT has officially endorsed this video, so go ahead and watch it when it comes out. The script covers a wide range of topics, including the sports, history, technical aspects, rules, and personal experiences with the sport. This kind of integration is effective for sponsored Content personal Narration Style.",
+            "gist": "Spanish Formula One Scriptment",
+            "headline": "Sam Altman reportedly suffered from scurvy while building F One app",
+            "start": 4876108,
+            "end": 5092842
+        },
+        {
+            "summary": "Wafer misproduced by Adam Alia and Ellis Revan. Our intro after Maze Give is by Vane SIL. Catch you in the next one.",
+            "gist": "Maze Give: The Physics of Physics",
+            "headline": "Hopefully it's not hallucinating. Yeah, hopefully it's totally right",
+            "start": 5092896,
+            "end": 5169810
+        },
+        {
+            "summary": "Visible offers a one line plan with unlimited 5G data on Verizon's Network for $25 a month. You manage your plan, chat to customer service, and update your eSIM all on their app. In times of traffic, your data may be temporarily slower than other traffic.",
+            "gist": "Unlimited 5G Data With Verizon for $25 a Month",
+            "headline": "Visible offers a one line plan with unlimited 5G data on Verizon's Network",
+            "start": 5169880,
+            "end": 5205450
+        }
+    ],
+    "audio_url": "https://www.listennotes.com/e/p/b7b3f3dad9184195a8466659501cbe36/",
+    "thumbnail": "https://production.listennotes.com/podcasts/waveform-the-mkbhd-podcast-vox-media--d3EQfvDZIH-vliqrx6DSMG.300x300.jpg",
+    "podcast_title": "Waveform: The MKBHD Podcast",
+    "episode_title": "Apple Adds RCS and OpenAI Explodes!"
+}
